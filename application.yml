@@ -1,1 +1,3 @@
-application:111
+server:
+  port: 8223
+application1: application1  
